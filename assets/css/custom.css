@@ -31,7 +31,7 @@ code, pre, tt {
 }
 
 
-/* === Force metadata (date, read time) to use Roboto Mono and no italics === */
+/* === Force metadata (date, read time, tags) to use Roboto Mono and no italics === */
 .entry-meta,
 .entry-meta *,
 .page__meta,
@@ -40,8 +40,14 @@ code, pre, tt {
 .post-meta *,
 .read-time,
 .read-time *,
-.page-date dt-published,
-.page-date dt-published *,
+.page-date,
+.page-date *,
+.dt-published,
+.dt-published *,
+.page-taxonomies,
+.page-taxonomies *,
+.page-taxonomy,
+.page-taxonomy *,
 .archive__item-meta,
 .archive__item-meta * {
   font-style: normal !important;

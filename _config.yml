@@ -53,8 +53,8 @@ font:
 
 markdown: kramdown
 highlighter: rouge
-feed:
-  path: atom.xml
+#feed:
+#  path: atom.xml
 
 # ------------------------------------------------------------
 # Organization
@@ -116,7 +116,7 @@ author:
   links:
     - title: LinkedIn
       url: https://www.linkedin.com/in/joanne-stableford/
-      icon: fab fa-twitter-square
+      icon: fab fa-linkedin-square
     - title: GitHub
       url: https://github.com/jostableford
       icon: fab fa-github-square
@@ -125,13 +125,10 @@ author:
 footer_links:
   - title: LinkedIn
     url: https://www.linkedin.com/in/joanne-stableford/
-    icon: fab fa-twitter-square
+    icon: fab fa-linkedin-square
   - title: GitHub
     url: https://github.com/jostableford
     icon: fab fa-github-square
-  - title: Twitter
-    url: https://twitter.com/mmistakes
-    icon: fab fa-twitter-square
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+#  - title: Feed
+#    url: atom.xml
+#    icon: fas fa-rss-square

@@ -1,5 +1,6 @@
 ---
 layout: search
 title: Search
-url: /search/
+permalink: /search/
+sitemap: false
 ---

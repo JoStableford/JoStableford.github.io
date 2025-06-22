@@ -1,6 +1,6 @@
 /* GLOBAL DARK BACKGROUND AND TEXT COLORS */
 body {
-  background-color: #151b25 !important;
+  background-color: #252a34 !important;
   color: #ffffff !important;
 }
 
@@ -9,7 +9,7 @@ a {
 }
 
 a:hover {
-  color: #db1f48 !important;
+  color: #034687 !important;
 }
 
 .page__content,

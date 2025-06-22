@@ -40,11 +40,11 @@ google_fonts:
   - name: "Roboto Mono"
     weights: "400,700"
 
-font:
-  heading: "Oswald"
-  body: "Roboto"
-  nav: "Roboto"
-  monospace: "Roboto Mono"
+#font:
+#  heading: "Oswald"
+#  body: "Roboto"
+#  nav: "Roboto"
+#  monospace: "Roboto Mono"
 
 
 # ------------------------------------------------------------

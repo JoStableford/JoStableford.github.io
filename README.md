@@ -3,4 +3,5 @@ This is a personal site where I tinker, write, and experiment with things I’m 
 Built with Markdown, powered by curiosity, hosted by GitHub Pages.
 
 It’s not fancy — but it’s mine. 🚀
+
 🚧 Under construction

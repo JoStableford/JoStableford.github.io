@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why I’m Building This Site"
-date: 2025-06-22
+date: 2025-06-21
 tags: [personal, blogging]
 ---
 

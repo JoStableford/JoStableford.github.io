@@ -1,21 +1,14 @@
-/* Force Google Fonts override for Minimal Mistakes */
-
-body,
-html,
-.page__content,
-.page__footer,
-.page__meta,
-.sidebar,
-nav,
-p,
-li {
+/* Use Roboto for all body text */
+body {
   font-family: 'Roboto', sans-serif !important;
 }
 
+/* Use Oswald for all headings */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Oswald', sans-serif !important;
 }
 
+/* Use Roboto Mono for code */
 code, pre, tt {
   font-family: 'Roboto Mono', monospace !important;
 }

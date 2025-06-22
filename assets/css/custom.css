@@ -1,6 +1,7 @@
 /* Use Roboto for all body text */
 body {
   font-family: 'Roboto', sans-serif !important;
+  font-style: normal !important;
 }
 
 /* Use Oswald for all headings */

@@ -46,6 +46,7 @@ font:
   nav: "Roboto"
   monospace: "Roboto Mono"
 
+minimal_mistakes_skin: default
 
 # ------------------------------------------------------------
 # Build Settings (optional)

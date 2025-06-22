@@ -5,7 +5,7 @@ date: 2025-06-22
 tags: [personal, blogging]
 ---
 
-# AI, Identity, and a Game of Thrones Thought Experiment (or: Who Would I Be in Westeros? AI Tried to Tell Me)
+# Or: Who Would I Be in Westeros? AI Tried to Tell Me
 
 One of the habits I’ve been trying to build lately is giving myself space each day for what I call **“AI playtime.”** Not productivity. Not automation. Just curiosity. Exploration. Low-stakes experimentation with how AI can help in everyday life—whether it’s something I need, or just something I’m thinking about.
 

@@ -32,17 +32,17 @@ plugins:
 # ------------------------------------------------------------
 
 google_fonts:
-  - name: Oswald
+  - name: "Oswald"
     weights: "400,700"
-  - name: Roboto
+  - name: "Roboto"
     weights: "400,400i,700,700i"
-  - name: Roboto Mono
+  - name: "Roboto Mono"
     weights: "400,700"
 
 font:
-  heading: Oswald
-  body: Roboto
-  nav: Roboto
+  heading: "Oswald"
+  body: "Roboto"
+  nav: "Roboto"
   monospace: "Roboto Mono"
 
 minimal_mistakes_skin: default
@@ -50,8 +50,6 @@ minimal_mistakes_skin: default
 # Custom styles
 sass:
   style: compressed
-
-# Add this line to include the override
 defaults:
   -
     scope:

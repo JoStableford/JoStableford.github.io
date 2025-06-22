@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "JoStableford"
+title: "Home"
 permalink: /
 ---
 

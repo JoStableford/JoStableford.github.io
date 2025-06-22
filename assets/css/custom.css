@@ -38,6 +38,10 @@ code, pre, tt {
 .page__meta *,
 .post-meta,
 .post-meta *,
+.read-time,
+.read-time *,
+.page-date dt-published,
+.page-date dt-published *,
 .archive__item-meta,
 .archive__item-meta * {
   font-style: normal !important;

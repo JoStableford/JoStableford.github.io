@@ -5,8 +5,8 @@
 title: JoStableford
 description: A learning space
 author: JoStableford
-baseurl: "/home" # the subpath of your site, e.g. "/blog"
-url: https://jostableford.github.io
+# baseurl: "/home" # the subpath of your site, e.g. "/blog"
+# url: https://jostableford.github.io
 logo: "/images/so-simple-site-logo.png" # path of site logo, e.g. "/assets/images/logo.png"
 locale: en-US
 date_format: "%B %-d, %Y"
@@ -23,7 +23,7 @@ liquid:
 # Theme Settings
 # ------------------------------------------------------------
 
-skin: #"/assets/css/skins/default.css"
+# skin: "/assets/css/skins/default.css"
 remote_theme: MMISTAKES/SO-SIMPLE-THEME
 plugins:
   - jekyll-remote-theme

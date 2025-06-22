@@ -4,7 +4,6 @@ title: "AI, Identity, and a Game of Thrones Thought Experiment"
 image: 
   path: /images/sansa-davos-computer.png
   thumbnail: /images/sansa-davos-computer.png
-  caption: "Image caption"
 date: 2025-06-22
 tags: [personal, AI]
 ---

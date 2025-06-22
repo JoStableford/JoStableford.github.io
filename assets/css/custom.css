@@ -53,3 +53,10 @@ code, pre, tt {
   font-family: 'Roboto Mono', monospace !important;
 }
 
+/* Fix post footer nav: previous/next titles */
+.pagination--pager em,
+.pagination--pager i,
+.pagination__title {
+  font-style: normal !important;
+  font-family: 'Roboto Mono', monospace !important;
+}

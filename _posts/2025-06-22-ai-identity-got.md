@@ -2,7 +2,7 @@
 layout: post
 title: "AI, Identity, and a Game of Thrones Thought Experiment"
 date: 2025-06-22
-tags: [personal, blogging]
+tags: [personal, AI]
 ---
 
 # Or: Who Would I Be in Westeros? AI Tried to Tell Me

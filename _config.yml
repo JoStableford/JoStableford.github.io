@@ -1,6 +1,40 @@
+# ------------------------------------------------------------
+# Site Metadata
+# ------------------------------------------------------------
+
 title: JoStableford
 description: A learning space
 author: JoStableford
+
+# ------------------------------------------------------------
+# Theme Settings
+# ------------------------------------------------------------
+
 remote_theme: MMISTAKES/SO-SIMPLE-THEME
 plugins:
   - jekyll-remote-theme
+
+# ------------------------------------------------------------
+# Font Settings
+# ------------------------------------------------------------
+
+google_fonts:
+  - name: Oswald
+    weights: "400,700"
+  - name: Roboto
+    weights: "400,400i,700,700i"
+  - name: Roboto Mono
+    weights: "400,700"
+
+font:
+  heading: Oswald
+  body: Roboto
+  nav: Roboto
+  monospace: "Roboto Mono"
+
+# ------------------------------------------------------------
+# Build Settings (optional)
+# ------------------------------------------------------------
+
+markdown: kramdown
+highlighter: rouge

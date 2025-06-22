@@ -5,11 +5,25 @@
 title: JoStableford
 description: A learning space
 author: JoStableford
+baseurl: "/example" # the subpath of your site, e.g. "/blog"
+url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+logo: "/images/so-simple-site-logo.png" # path of site logo, e.g. "/assets/images/logo.png"
+locale: en-US
+date_format: "%B %-d, %Y"
+read_time: true
+words_per_minute: 200
+google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
+# unsure
+disqus:
+# Liquid
+liquid:
+  error_mode: strict
 
 # ------------------------------------------------------------
 # Theme Settings
 # ------------------------------------------------------------
 
+skin: "/assets/css/skins/default.css"
 remote_theme: MMISTAKES/SO-SIMPLE-THEME
 plugins:
   - jekyll-remote-theme
@@ -39,3 +53,85 @@ font:
 
 markdown: kramdown
 highlighter: rouge
+feed:
+  path: atom.xml
+
+# ------------------------------------------------------------
+# Organization
+# ------------------------------------------------------------
+
+# Search
+search_full_content: false
+# Taxonomy pages
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Front Matter Defaults
+defaults:
+  # Post defaults
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      comments: true
+      share: true
+  # Recipe defaults
+  - scope:
+      path: "_recipes"
+      type: recipes
+    values:
+      layout: post
+      comments: true
+      share: true
+
+# Collections
+collections:
+  recipes:
+    output: true
+    permalink: /:collection/:path/
+
+
+# ------------------------------------------------------------
+# Footer and author info
+# ------------------------------------------------------------
+
+# Site Author
+author:
+  name: JoStableford
+  picture: /images/michael-rose-photo.jpg
+  email:
+  twitter: 
+  links:
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/joanne-stableford/
+      icon: fab fa-twitter-square
+    - title: GitHub
+      url: https://github.com/jostableford
+      icon: fab fa-github-square
+
+# Footer Links
+footer_links:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/joanne-stableford/
+    icon: fab fa-twitter-square
+  - title: GitHub
+    url: https://github.com/jostableford
+    icon: fab fa-github-square
+  - title: Twitter
+    url: https://twitter.com/mmistakes
+    icon: fab fa-twitter-square
+  - title: Feed
+    url: atom.xml
+    icon: fas fa-rss-square

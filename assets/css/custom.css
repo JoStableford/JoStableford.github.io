@@ -22,3 +22,12 @@ code, pre, tt {
 .entry-title {
   font-style: normal !important;
 }
+
+/* Style post metadata and page descriptions */
+.page__meta,
+.page__lead,
+.entry-meta,
+.page-description {
+  font-style: normal !important;
+  font-family: 'Roboto Mono', monospace !important;
+}

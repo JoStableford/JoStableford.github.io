@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI, Identity, and a Game of Thrones Thought Experiment"
+image: /images/sansa-davos-computer.png
 date: 2025-06-22
 tags: [personal, AI]
 ---

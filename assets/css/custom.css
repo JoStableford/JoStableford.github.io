@@ -29,19 +29,26 @@ code, pre, tt {
   font-family: 'Roboto Mono', monospace !important;
 }
 
-/* Apply Roboto Mono and remove italics from post metadata */
+
+/* === Force metadata (date, read time) to use Roboto Mono and no italics === */
 .entry-meta,
+.entry-meta *,
 .page__meta,
+.page__meta *,
 .post-meta,
-.archive__item-meta {
+.post-meta *,
+.archive__item-meta,
+.archive__item-meta * {
   font-style: normal !important;
   font-family: 'Roboto Mono', monospace !important;
 }
 
-/* Use Roboto Mono for post/page subheadings or excerpts */
+/* === Force post/page descriptions and blurbs to Roboto Mono === */
 .page__lead,
+.page__lead *,
 .archive__item-excerpt,
-.page__header .page__lead {
+.archive__item-excerpt * {
   font-style: normal !important;
   font-family: 'Roboto Mono', monospace !important;
 }
+

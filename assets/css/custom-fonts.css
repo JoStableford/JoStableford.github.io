@@ -1,0 +1,21 @@
+/* Force Google Fonts override for Minimal Mistakes */
+
+body,
+html,
+.page__content,
+.page__footer,
+.page__meta,
+.sidebar,
+nav,
+p,
+li {
+  font-family: 'Roboto', sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Oswald', sans-serif !important;
+}
+
+code, pre, tt {
+  font-family: 'Roboto Mono', monospace !important;
+}

@@ -23,22 +23,8 @@ code, pre, tt {
   font-style: normal !important;
 }
 
-/* === Fix metadata (date, read time, etc.) === */
-.entry-meta,
-.page__meta {
+/* Remove italics and set font for the site description under logo/title */
+.site-description {
   font-style: normal !important;
   font-family: 'Roboto Mono', monospace !important;
-  font-size: 0.9rem;
-  color: #555;
-  letter-spacing: 0.25px;
-}
-
-/* === Fix post/page lead text (subhead/description) === */
-.page__lead,
-.page__header .page__lead,
-.archive__item-excerpt {
-  font-style: normal !important;
-  font-family: 'Roboto Mono', monospace !important;
-  font-size: 1rem;
-  color: #444;
 }

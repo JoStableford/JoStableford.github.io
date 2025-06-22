@@ -26,7 +26,7 @@ liquid:
 remote_theme: MMISTAKES/SO-SIMPLE-THEME
 plugins:
   - jekyll-remote-theme
-skin: "/assets/css/skins/dark.css"
+skin: "/assets/css/skins/dark.scss"
 
 # ------------------------------------------------------------
 # Font Settings

@@ -24,13 +24,28 @@ liquid:
 # ------------------------------------------------------------
 
 remote_theme: MMISTAKES/SO-SIMPLE-THEME
-minimal_mistakes_skin: default
 plugins:
   - jekyll-remote-theme
 
 # ------------------------------------------------------------
 # Font Settings
 # ------------------------------------------------------------
+
+google_fonts:
+  - name: Oswald
+    weights: "400,700"
+  - name: Roboto
+    weights: "400,400i,700,700i"
+  - name: Roboto Mono
+    weights: "400,700"
+
+font:
+  heading: Oswald
+  body: Roboto
+  nav: Roboto
+  monospace: "Roboto Mono"
+
+minimal_mistakes_skin: default
 
 # Custom styles
 sass:

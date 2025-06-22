@@ -31,8 +31,6 @@ plugins:
 # Font Settings
 # ------------------------------------------------------------
 
-minimal_mistakes_skin: default
-
 # Custom styles
 sass:
   style: compressed

@@ -17,3 +17,8 @@ code, pre, tt {
 .page-title {
   font-style: normal !important;
 }
+
+/* Remove italics from post preview titles (like featured, archive, etc.) */
+.entry-title {
+  font-style: normal !important;
+}

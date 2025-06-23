@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 permalink: /
 show_excerpts: true
-entries_layout: list
+entries_layout: grid
 navigation: true
 ---
 

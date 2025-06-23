@@ -14,12 +14,12 @@ For a long time, I’ve written in the margins. Meeting notes, half-finished dra
 
 This space is an attempt to change that.
 
-I’m building this blog as a place to experiment in public. To write, reflect, and stretch the muscle of saying things out loud. Not to teach. Not to market. Just to think more clearly—and maybe make a few connections along the way.
+I’m building this blog as a place to experiment in public. To write, reflect, and stretch the muscle of saying things out loud. Not to teach. Not to market. Just to think more clearly... and maybe make a few connections along the way.
 
 What will live here? I’m not totally sure yet. Probably a mix of:
 
 - Things I’m trying to make sense of
-- Moments that stick—whether from the back of an ambulance or a quiet walk home
+- Moments that stick -whether from the back of an ambulance or a quiet walk around the block
 - Rambles that start with a quote or an odd question and go somewhere unexpected
 
 Some posts might feel polished. Others might just be notes I couldn’t shake.

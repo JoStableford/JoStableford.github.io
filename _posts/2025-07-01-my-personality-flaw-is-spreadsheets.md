@@ -9,7 +9,7 @@ tags: [personal]
 ---
 
 # My Personality Flaw? I Make Spreadsheets for Everything.  
-*And I’m not even sorry—except when I have to explain VLOOKUP to someone again.*
+*And I’m not even sorry—except when I have to explain VLOOKUP to someone for the fourth time.*
 
 They say awareness is the first step. So here I am, fully aware and entirely unrepentant:  
 **I make spreadsheets. For everything.**  
@@ -47,7 +47,7 @@ You get back a new version that someone downloaded to open on their desktop in e
 Suddenly, you’re not managing a spreadsheet. You’re managing a fragile, multi-user trust experiment.
 
 
-## Yes, I Use Scripts. Obviously.
+## Yes, I Use Scripts.
 
 At some point, formulas just aren’t enough.
 

@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Why Founders Should Cover Health Insurance Through Month-End (or Longer)"
+image: 
+  path: /images/COBRA article image.png
+  thumbnail: /images/COBRA article image.png
 date: 2025-07-09
 tags: [HR, Operations, Leadership]
 ---

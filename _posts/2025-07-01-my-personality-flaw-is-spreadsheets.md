@@ -3,7 +3,7 @@ layout: post
 title: "My Personality Flaw? I Make Spreadsheets for Everything."
 image: 
   path: images/header-spreadsheet.png
-  thumbnail: images/header-spreadsheet.png
+  thumbnail: 
 date: 2025-07-01
 tags: [personal]
 ---

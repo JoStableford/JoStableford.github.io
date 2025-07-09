@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why Founders Should Cover Health Insurance Through Month-End (or Longer)"
+title: "Why Startups Should Cover Health Insurance Through Month-End (or Longer)"
 image: 
   path: /images/COBRA article image.png
   thumbnail: 
@@ -25,7 +25,7 @@ Not the headline in the all-hands. Not the bullet in the severance email. But th
 
 ## The Hidden Gap: Why COBRA Leaves People Exposed
 
-Here’s what most founders (and even some HR teams) don’t realize:
+Here’s what most leaders (and even some HR teams) don’t realize:
 
 When someone loses their job, they have a few paths to stay insured:
 

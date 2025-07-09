@@ -3,7 +3,7 @@ layout: post
 title: "Why I’m Building This Site"
 image: 
   path: /images/06-21-post-image.png
-  thumbnail: /images/06-21-post-image.png
+  thumbnail: 
 date: 2025-06-21
 tags: [personal, blogging]
 ---

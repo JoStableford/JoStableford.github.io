@@ -2,6 +2,8 @@
 layout: home
 title: "Home"
 permalink: /
+show_excerpts: false
+entries_layout: list
 navigation: true
 ---
 

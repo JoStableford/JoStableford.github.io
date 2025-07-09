@@ -8,7 +8,6 @@ date: 2025-07-09
 tags: [HR, Operations, Leadership]
 ---
 
-# Why Founders Should Cover Health Insurance Through Month-End (or Longer)
 
 **It’s not just generous. It’s one of the simplest, lowest-cost ways to reduce harm during a layoff.**
 
